@@ -1,2 +1,2 @@
-# vba-challenge
+# VBA-challenge
 Homework #2
